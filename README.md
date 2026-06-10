@@ -952,3 +952,4 @@ ___
 > 
 > Если вы пришли сюда с багом — убедитесь, что запускаете последнюю версию скрипта, и прочитайте FAQ. Если ничего не помогло — попробуйте плагин [Questify](https://equicord.org/plugins/Questify) для Equicord.
 
+**Based on the guide [aamiaa](https://gist.github.com/aamiaa) / Cоздано на основе гайда [aamiaa](https://gist.github.com/aamiaa) 🧩**
